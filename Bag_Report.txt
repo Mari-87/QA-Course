@@ -1,0 +1,2 @@
+
+  №	  Summary	Descriprion	Steps to reproduce	Expected Result	  Аctual result	   Severity	Priority
